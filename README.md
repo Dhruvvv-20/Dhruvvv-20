@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Laddha</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate and aspiring Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **Tweet Sentiment Analysis**
+- 🔭 I’m currently working on **Becoming a Data Scientist**
 
 - 🌱 I’m currently learning **Machine Learning**
 
